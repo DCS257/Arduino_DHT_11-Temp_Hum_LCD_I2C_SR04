@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "Arduino_DHT_11-Temp_Hum_LCD_I2C_SR04.ino",
+    "port": "COM3"
+}
